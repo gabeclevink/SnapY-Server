@@ -1,4 +1,5 @@
-NostalgiaSnap is a Snapchat private server (in Alpha) made by Savefade (sfproj.xyz)
+SnapY is a way to fix snapchat on iOS 4,5 and 6 here's the private server server made by Clevin K  
+tweak made by iOS 5 Xclusive!
 
 Currently it includes support for the following features:
 - Login & Register: bq/ph/ss2/picaboo/
@@ -7,6 +8,5 @@ Currently it includes support for the following features:
 - Snaps: bq/ph
 - Snap Updates: bq only
 
-Recommended Versions: 5.0.X and 6.X (Android is not fully supported)
 
 NOTE: THIS PROJECT IS NOT ENDORSED BY SNAP INC!!!
